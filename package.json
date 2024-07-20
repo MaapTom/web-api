@@ -1,0 +1,13 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh src/script.sh",
+    "start": "node --watch --env-file=.env src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,13 @@
+- Objeto JSON
+- Classes em JavaScript
+  - Alguns conceitos de POO
+- Promisses
+- FS(ReadFile, WriteFile)
+- Padrões de Projeto em NodeJS focado em APIs
+  - Ou padrões de projeto em Orientação Objeto(repository, factories, entities, services)
+- Join(__dirname)
+- Função de chave "const xxx () => {}"??
+- Map
+- Cypress no Node??
+- For Await
+- Clojure
